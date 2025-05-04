@@ -2,7 +2,7 @@
 Project Title: Developing a Tic Tac Toe AI Agent Using Minimax with Alpha
 Beta Pruning. 
 Course: Introduction to Artificial Intelligence 
-Team Members: Priyanka Singh, Heli Sureja 
+Team Members: Priyanka Singh, Heli Sureja <br>
 Instructor: Prof. Shivanjali Khare
 
  Introduction 
