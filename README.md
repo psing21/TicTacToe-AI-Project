@@ -61,8 +61,6 @@ making.
 | `random_bot.py` | Simple bot that plays random moves |
 | `ai_simple` | Earlier or backup AI logic |
 | `README.md` | Project overview and setup instructions |
-| `phase 2 report.pdf` | Report detailing development and analysis |
-| `Developing a Tic Tac Toe AI Agent.pptx` | Presentation slides |
 
 ---
 
