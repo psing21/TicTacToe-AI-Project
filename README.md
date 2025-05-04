@@ -53,14 +53,16 @@ making.
 
 ## 📁 File Breakdown
 
-File              |        Description 
-----------------------------------------------------------------
-| `main.py`       | Starts the game and initializes AI |
-| `game.py`       | Contains GUI logic and game rules |
-| `ai.py`         | Implements Minimax with Alpha-Beta Pruning |
+| File | Description |
+|------|-------------|
+| `main.py` | Starts the game and initializes AI |
+| `game.py` | Contains GUI logic and game rules |
+| `ai.py` | Implements Minimax with Alpha-Beta Pruning |
 | `random_bot.py` | Simple bot that plays random moves |
-| `ai_simple`     | Earlier or backup AI logic |
-| `README.md`     | Project overview and setup instructions |
+| `ai_simple` | Earlier or backup AI logic |
+| `README.md` | Project overview and setup instructions |
+| `phase 2 report.pdf` | Report detailing development and analysis |
+| `Developing a Tic Tac Toe AI Agent.pptx` | Presentation slides |
 
 ---
 
